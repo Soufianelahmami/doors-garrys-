@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Doors have always played a vital role in human civilization, serving as gateways between spaces and bridging the gap between the private and public spheres. Throughout history, ","photo2":"https://iili.io/HgvMdLg.jpg"},
+  {"desc3":"doors have evolved from simple wooden barriers to sophisticated structures that showcase intricate design and technological advancements. In this article,","photo3":"https://iili.io/HgvGymP.jpg"},
+  {"desc4":"we delve into the captivating world of Gary's Doors, exploring the various aspects that make them exceptional. From their innovative designs to their functional capabilities and symbolic meanings, ","photo4":"https://iili.io/HgvM3Ba.webp"},
+  {"desc5":"we uncover the unique characteristics that make Gary's Doors a remarkable addition to architectural landscapes.","photo5":"https://iili.io/HgvMHI1.jpg"},
+  {"descd":"Gary's Doors, founded by the visionary designer Gary Thompson, have emerged as pioneers in the industry, redefining the concept of door craftsmanship.","photod":"https://iili.io/HgvMJhF.jpg"}
    ]
  
 }
